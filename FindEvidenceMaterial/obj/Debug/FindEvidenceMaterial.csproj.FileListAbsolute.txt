@@ -25,3 +25,17 @@ C:\Users\brice\source\repos\FindEvidenceMaterial\FindEvidenceMaterial\obj\Debug\
 C:\Users\brice\source\repos\FindEvidenceMaterial\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.csproj.CopyComplete
 C:\Users\brice\source\repos\FindEvidenceMaterial\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.exe
 C:\Users\brice\source\repos\FindEvidenceMaterial\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.pdb
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\bin\Debug\FindEvidenceMaterial.exe.config
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\bin\Debug\FindEvidenceMaterial.exe
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\bin\Debug\FindEvidenceMaterial.pdb
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\bin\Debug\MaterialSkin.dll
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.csprojResolveAssemblyReference.cache
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.GameForm.resources
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.HighScore.resources
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.WelcomeForm.resources
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.Properties.Resources.resources
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.csproj.GenerateResource.cache
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.csproj.CoreCompileInputs.cache
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.csproj.CopyComplete
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.exe
+E:\Users\Thomas\Documents\github\FindEvidenceGame\FindEvidenceMaterial\obj\Debug\FindEvidenceMaterial.pdb
